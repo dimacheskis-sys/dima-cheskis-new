@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Dima Cheskis"
+title: " "
 permalink: /
 author_profile: true
 ---
