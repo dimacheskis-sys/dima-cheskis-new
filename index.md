@@ -1,0 +1,6 @@
+---
+layout: splash
+title: " "
+permalink: /
+author_profile: true
+---
