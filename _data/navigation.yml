@@ -8,21 +8,26 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
- main:
   - title: "Publications"
-    url: https://dimacheskis-sys.github.io/dima-cheskis-new/publications/
+    url: /publications/
 
   - title: "Talks"
-    url: https://dimacheskis-sys.github.io/dima-cheskis-new/talks/
+    url: /talks/    
 
   - title: "Teaching"
-    url: https://dimacheskis-sys.github.io/dima-cheskis-new/teaching/
-
+    url: /teaching/    
+    
   - title: "Portfolio"
-    url: https://dimacheskis-sys.github.io/dima-cheskis-new/portfolio/
-
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
   - title: "CV"
-    url: https://dimacheskis-sys.github.io/dima-cheskis-new/cv/
-
+    url: /cv/
+    
+  # - title: "CV"
+  #   url: /cv-json/
+    
   - title: "Guide"
-    url: https://dimacheskis-sys.github.io/dima-cheskis-new/markdown/
+    url: /markdown/
