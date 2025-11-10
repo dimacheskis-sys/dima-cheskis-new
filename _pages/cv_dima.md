@@ -90,6 +90,6 @@ Professional Service
 
 Contact
 ======
-**Email:** dima.cheskis@ariel.ac.il  
-**Mobile:** +972‑54‑759‑4001  
+**Email:** dimacheskis@gmail.com  
+#**Mobile:** +972‑54‑759‑4001  
 **Address:** Hermon Street 22/1, Alfe Menashe, Israel
